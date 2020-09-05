@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **DQbryant/DQbryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我是刘东权，就读于福州大学计算机专业，于2022年本科毕业。我会C、Java，写过两次全栈应用，现在sdn实验室中学习sdn知识，参加过比赛项目也拿到过奖。代码能力还有不足，希望大家能多多与我交流，我的邮箱是1791833099@qq.com，欢迎给我发邮件😄
